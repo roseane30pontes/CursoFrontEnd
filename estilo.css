@@ -1,0 +1,50 @@
+	*{
+		margin: 0;
+		border: 0;
+		padding:0;
+	}
+
+	#ImagemTopo{
+		background-color: #9ACD32;
+		text-align: center;
+	}
+
+	p{
+		padding: 25px;
+		font-size: 18px;
+		font-family: arial;
+		text-align: justify;
+	}
+
+	h1,h2{
+		text-align: center;
+		font-family: arial;
+		color: #006400;
+	}
+
+	h3{
+		font-family: arial;
+	}
+
+	footer{
+		background-color: #9ACD32;
+		text-align: center;
+		font-family: arial;
+	}
+
+	img{
+		height: 40%;
+		width: 40%;
+	}
+
+	.contato{
+		font-size: 0.85em;
+	}
+
+	.cliente{
+		color: #006400;
+		font-family: arial;
+		text-align: justify;
+
+	}
+
